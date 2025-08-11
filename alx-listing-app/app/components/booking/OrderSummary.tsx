@@ -28,4 +28,4 @@ const OrderSummary: React.FC<{ bookingDetails: any }> = ({ bookingDetails }) => 
     </div>
   );
   
-  export default OrderSummary;
+export default OrderSummary;
